@@ -1,9 +1,9 @@
 export default function Home(){
     return(
-        <div className="container">
-            <div className="banner">
-                <h1>Wrlcome</h1>
-                <p>jhs jhgfiksb giu</p>
+        <div className="banner">
+            <div className="banner-text">
+                <h1>WELCOM TO CEO CHARITY ORGANIZATION</h1>
+                <p>We are Non Governmental Organization Helping The Less Previllage</p>
             </div>
         </div>
     )

@@ -9,7 +9,7 @@ body {
   display: flex;
   position: relative;
   padding: 1%;
-  height: 80px;
+  height: 100px;
   align-items: center;
   position: sticky;
   top: 0;
@@ -124,6 +124,8 @@ body {
   background: url('banner-bg.png');
   height: 520px;
   margin-top: -25px;
+  text-align: center;
+  color: #ffffff;
 }
 
 /* DONATION */
@@ -132,7 +134,20 @@ body {
   padding: 5% 15%;
   padding-top: 0;
 }
+.banner-text {
+  width: 98%;
+  text-align: center;
+  position: absolute;
+  top: 30%;
+}
 @media screen and (max-width: 760px) {
+  .banner{
+    font-size: 8px;
+  }
+  
+  .banner p{
+    font-size: 15px;
+  }
   .donation-box{
     width: 100%;
     height: 450px;

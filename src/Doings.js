@@ -10,7 +10,7 @@ export default function Doings(){
          <div className="container">
             <div className="row">
                <div className="col-sm-12">
-                  <h1 className="mission_taital">WHAT WE ARE DOIND</h1>
+                  <h1 className="mission_taital">WHAT WE DO</h1>
                   <p className="mission_text">going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </p>
                </div>
             </div>
