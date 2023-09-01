@@ -31,6 +31,7 @@ export default function Doings(){
                      </div>
                   </div>
                </div>
+               <div className='gap'>-</div>
                <div className="col-md-5">
                   <div className="container_main">
                      <img src={image2} alt="Avatar" className="image" />
@@ -63,6 +64,7 @@ export default function Doings(){
                      </div>
                   </div>
                </div>
+               <div className='gap'>-</div>
                <div className="col-md-5">
                   <div className="container_main">
                      <img src={image4} alt="Avatar" className="image" />
